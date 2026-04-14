@@ -1,7 +1,6 @@
 import { useScrollReveal } from "@/hooks/use-scroll-reveal";
 import gallery1 from "@/assets/gallery/photo1.jpg";
 import gallery2 from "@/assets/gallery/photo2.jpg";
-import gallery3 from "@/assets/gallery/photo3.jpg";
 import gallery4 from "@/assets/gallery/photo4.jpg";
 import gallery5 from "@/assets/gallery/photo5.jpg";
 import gallery6 from "@/assets/gallery/photo6.jpg";
@@ -14,7 +13,6 @@ import gallery11 from "@/assets/gallery/upload-1776183683862-4.jpg";
 const galleryImages = [
   { src: gallery1, label: "Nos plats" },
   { src: gallery2, label: "Nos plats" },
-  { src: gallery3, label: "Nos plats" },
   { src: gallery4, label: "Nos plats" },
   { src: gallery5, label: "Nos plats" },
   { src: gallery6, label: "Nos plats" },
