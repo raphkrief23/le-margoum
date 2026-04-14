@@ -1,10 +1,15 @@
 import { useScrollReveal } from "@/hooks/use-scroll-reveal";
-import gallery1 from "@/assets/gallery/upload-1776183678286-0.jpg";
-import gallery2 from "@/assets/gallery/upload-1776183679539-1.jpg";
-import gallery3 from "@/assets/gallery/upload-1776183681174-2.jpg";
-import gallery4 from "@/assets/gallery/upload-1776183682597-3.jpg";
-import gallery5 from "@/assets/gallery/upload-1776183683862-4.jpg";
-import gallery6 from "@/assets/gallery/photo5.jpg";
+import gallery1 from "@/assets/gallery/photo1.jpg";
+import gallery2 from "@/assets/gallery/photo2.jpg";
+import gallery3 from "@/assets/gallery/photo3.jpg";
+import gallery4 from "@/assets/gallery/photo4.jpg";
+import gallery5 from "@/assets/gallery/photo5.jpg";
+import gallery6 from "@/assets/gallery/photo6.jpg";
+import gallery7 from "@/assets/gallery/upload-1776183678286-0.jpg";
+import gallery8 from "@/assets/gallery/upload-1776183679539-1.jpg";
+import gallery9 from "@/assets/gallery/upload-1776183681174-2.jpg";
+import gallery10 from "@/assets/gallery/upload-1776183682597-3.jpg";
+import gallery11 from "@/assets/gallery/upload-1776183683862-4.jpg";
 
 const galleryImages = [
   { src: gallery1, label: "Nos plats" },
@@ -12,7 +17,12 @@ const galleryImages = [
   { src: gallery3, label: "Nos plats" },
   { src: gallery4, label: "Nos plats" },
   { src: gallery5, label: "Nos plats" },
-  { src: gallery6, label: "La terrasse" },
+  { src: gallery6, label: "Nos plats" },
+  { src: gallery7, label: "Nos plats" },
+  { src: gallery8, label: "Nos plats" },
+  { src: gallery9, label: "Nos plats" },
+  { src: gallery10, label: "Nos plats" },
+  { src: gallery11, label: "Nos plats" },
 ];
 
 const GallerySection = () => {
@@ -29,7 +39,7 @@ const GallerySection = () => {
             Galerie
           </p>
           <h2 className="font-heading text-3xl md:text-4xl text-card-foreground">
-            Un avant-goût de l'expérience
+            Un avant-goût de l\'expérience
           </h2>
         </div>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-3 md:gap-4">
