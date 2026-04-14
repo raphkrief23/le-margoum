@@ -1,9 +1,9 @@
 import { useScrollReveal } from "@/hooks/use-scroll-reveal";
-import gallery1 from "@/assets/gallery/upload-1776182612013-0.jpg";
-import gallery2 from "@/assets/gallery/upload-1776182613418-1.jpg";
-import gallery3 from "@/assets/gallery/upload-1776182614895-2.jpg";
-import gallery4 from "@/assets/gallery/upload-1776182616271-3.jpg";
-import gallery5 from "@/assets/gallery/upload-1776182617761-4.jpg";
+import gallery1 from "@/assets/gallery/upload-1776183678286-0.jpg";
+import gallery2 from "@/assets/gallery/upload-1776183679539-1.jpg";
+import gallery3 from "@/assets/gallery/upload-1776183681174-2.jpg";
+import gallery4 from "@/assets/gallery/upload-1776183682597-3.jpg";
+import gallery5 from "@/assets/gallery/upload-1776183683862-4.jpg";
 import gallery6 from "@/assets/gallery/photo5.jpg";
 
 const galleryImages = [
