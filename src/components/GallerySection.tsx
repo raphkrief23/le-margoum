@@ -37,7 +37,7 @@ const GallerySection = () => {
             Galerie
           </p>
           <h2 className="font-heading text-3xl md:text-4xl text-card-foreground">
-            Un avant-goût de l\'expérience
+            Un avant-goût de l'expérience
           </h2>
         </div>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-3 md:gap-4">
