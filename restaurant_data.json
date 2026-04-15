@@ -104,15 +104,15 @@
     {
       "title": "Plats",
       "items": [
-        { "name": "Escalope Milanaise", "price": "14,00" },
-        { "name": "Escalope à la Crème", "price": "14,00" },
-        { "name": "Escalope Grillée", "price": "14,00" },
-        { "name": "Burger", "price": "14,00" },
-        { "name": "Assiette Kebab", "price": "14,00" },
-        { "name": "Assiette Tunisienne", "price": "16,00" },
-        { "name": "Dorade Grillée (Frite et Salade)", "price": "19,00" },
-        { "name": "Fish and Chips (Frite et Salade)", "price": "13,00" },
-        { "name": "Croque Madame + Salade", "price": "12,00" }
+        { "name": "Escalope Milanaise", "price": "16,00" },
+        { "name": "Escalope à la Crème", "price": "16,00" },
+        { "name": "Escalope Grillée", "price": "16,00" },
+        { "name": "Burger", "price": "16,00" },
+        { "name": "Assiette Kebab", "price": "16,00" },
+        { "name": "Assiette Tunisienne", "price": "18,00" },
+        { "name": "Dorade Grillée (Frite et Salade)", "price": "21,00" },
+        { "name": "Fish and Chips (Frite et Salade)", "price": "15,00" },
+        { "name": "Croque Madame + Salade", "price": "14,00" }
       ]
     },
     {
