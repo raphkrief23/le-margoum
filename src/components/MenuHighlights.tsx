@@ -2,23 +2,122 @@ import { useScrollReveal } from "@/hooks/use-scroll-reveal";
 
 const categories = [
   {
-    title: "Plats",
+    title: "Entrées",
     items: [
-      { name: "Couscous Kefta", price: "14,00" },
-      { name: "Couscous Poulet", price: "14,00" },
-      { name: "Couscous Merguez", price: "14,00" },
-      { name: "Couscous Agneau", price: "16,00" },
-      { name: "Brochette de Poulet", price: "14,00" },
-      { name: "Moules Marinières", price: "13,00" },
-      { name: "Filet de dorade grillé (Frite Salade)", price: "16,00" },
+      { name: "Bricks (thon, oeuf ou viande)", price: "7,00" },
+      { name: "Cigares de Djerba", price: "7,00" },
+      { name: "Melon Jambon", price: "7,00" },
     ],
   },
   {
-    title: "Desserts et Boissons",
+    title: "Salades",
     items: [
-      { name: "Patisserie Maison", price: "None" },
-      { name: "Citronnade Maison", price: "4,00" },
-      { name: "Coca-Cola", price: "None" },
+      { name: "Niçoise", price: "14,00" },
+      { name: "Chèvre Chaud", price: "14,00" },
+      { name: "César", price: "14,00" },
+      { name: "Saumon Fumé", price: "14,00" },
+      { name: "Burrata", price: "15,00" },
+    ],
+  },
+  {
+    title: "Pizzas",
+    items: [
+      { name: "Marguerite", price: "12,00" },
+      { name: "Napolitaine", price: "14,00" },
+      { name: "Reine", price: "14,00" },
+      { name: "3 Fromages", price: "14,00" },
+      { name: "Aubergine", price: "14,00" },
+      { name: "Cannibale", price: "14,00" },
+      { name: "Orientale", price: "14,00" },
+      { name: "Poulet", price: "14,00" },
+      { name: "Saumon", price: "14,00" },
+      { name: "Neptune", price: "14,00" },
+      { name: "Fruit de Mer", price: "16,00" },
+      { name: "4 Saisons", price: "14,00" },
+      { name: "Chèvre", price: "14,00" },
+      { name: "Chèvre Miel", price: "14,00" },
+      { name: "Du Chef", price: "14,00" },
+      { name: "Burrata", price: "16,00" },
+    ],
+  },
+  {
+    title: "Pâtes",
+    items: [
+      { name: "Bolognaise", price: "14,00" },
+      { name: "Carbonara", price: "14,00" },
+      { name: "Pesto", price: "14,00" },
+      { name: "Saumon", price: "16,00" },
+    ],
+  },
+  {
+    title: "Omelettes",
+    items: [
+      { name: "Nature", price: "14,00" },
+      { name: "Champignons", price: "15,00" },
+      { name: "Jambon Fromage", price: "15,00" },
+    ],
+  },
+  {
+    title: "Grillades",
+    items: [
+      { name: "Brochette Poulet", price: "15,00" },
+      { name: "Entrecôte", price: "21,00" },
+      { name: "Brochette Agneau", price: "19,00" },
+      { name: "Côtelettes Agneau", price: "19,00" },
+    ],
+  },
+  {
+    title: "Plats",
+    items: [
+      { name: "Escalope Milanaise", price: "14,00" },
+      { name: "Escalope à la Crème", price: "14,00" },
+      { name: "Escalope Grillée", price: "14,00" },
+      { name: "Burger", price: "14,00" },
+      { name: "Assiette Kebab", price: "14,00" },
+      { name: "Assiette Tunisienne", price: "16,00" },
+      { name: "Dorade Grillée (Frite et Salade)", price: "19,00" },
+      { name: "Fish and Chips (Frite et Salade)", price: "13,00" },
+      { name: "Croque Madame + Salade", price: "12,00" },
+    ],
+  },
+  {
+    title: "Couscous",
+    items: [
+      { name: "Couscous Poulet", price: "17,00" },
+      { name: "Couscous Kefta", price: "17,00" },
+      { name: "Couscous Merguez", price: "17,00" },
+      { name: "Couscous Agneau", price: "19,00" },
+      { name: "Couscous Royal", price: "25,00" },
+    ],
+  },
+  {
+    title: "Boissons",
+    items: [
+      { name: "Mojito", price: "9,00" },
+      { name: "Virgin Mojito", price: "9,00" },
+      { name: "Apérol Spritz", price: "9,00" },
+      { name: "Citronnade Maison", price: "5,00" },
+      { name: "Jus d'Orange Pressé", price: "7,00" },
+      { name: "Oriental Cake", price: "13,00" },
+    ],
+  },
+  {
+    title: "Desserts",
+    items: [
+      { name: "Tarte au Citron", price: "6,00" },
+      { name: "Tarte aux Pommes", price: "6,00" },
+    ],
+  },
+  {
+    title: "Menu Enfants",
+    items: [
+      { name: "Steak ou Escalope + Frites ou Pâtes / Pizza Marguerite", price: "13,00" },
+    ],
+  },
+  {
+    title: "Formule",
+    items: [
+      { name: "Entrée + Plat + Dessert + Café ou Thé à la Menthe", price: "26,00" },
     ],
   },
 ];
