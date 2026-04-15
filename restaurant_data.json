@@ -1,0 +1,178 @@
+{
+  "nom": "Le Margoum",
+  "categorie": "Restaurant Maghrébin",
+  "rue": "28 Pl. aux Aires",
+  "ville": "06130 Grasse",
+  "telephone": "+33 6 03 36 90 80",
+  "histoire": "Au 28 Pl. aux Aires à Grasse, Le Margoum vous ouvre ses portes. Découvrez une ambiance chaleureuse et authentique, promesse d'une parenthèse exquise. Notre cuisine est une ode passionnée aux saveurs méditerranéennes. Chaque plat, élaboré avec des produits frais et beaucoup d'amour, raconte l'histoire de notre terroir et de notre engagement. L'atmosphère conviviale invite au partage et aux découvertes gustatives. Le Margoum, c'est plus qu'un restaurant ; c'est un lieu où la générosité de la table se mêle à la joie de vivre, pour un moment inoubliable.",
+  "horaires": [
+    {
+      "day": "Lundi",
+      "hours": "12h00 – 17h00"
+    },
+    {
+      "day": "Mardi",
+      "hours": "12h00 – 17h00"
+    },
+    {
+      "day": "Mercredi",
+      "hours": "12h00 – 17h00"
+    },
+    {
+      "day": "Jeudi",
+      "hours": "12h00 – 17h00"
+    },
+    {
+      "day": "Vendredi",
+      "hours": "12h00 – 17h00"
+    },
+    {
+      "day": "Samedi",
+      "hours": "Fermé"
+    },
+    {
+      "day": "Dimanche",
+      "hours": "12h00 – 17h00"
+    }
+  ],
+  "menu": [
+    {
+      "title": "Entrées",
+      "items": [
+        { "name": "Bricks (thon, oeuf ou viande)", "price": "7,00" },
+        { "name": "Cigares de Djerba", "price": "7,00" },
+        { "name": "Melon Jambon", "price": "7,00" }
+      ]
+    },
+    {
+      "title": "Salades",
+      "items": [
+        { "name": "Niçoise", "price": "14,00" },
+        { "name": "Chèvre Chaud", "price": "14,00" },
+        { "name": "César", "price": "14,00" },
+        { "name": "Saumon Fumé", "price": "14,00" },
+        { "name": "Burrata", "price": "15,00" }
+      ]
+    },
+    {
+      "title": "Pizzas",
+      "items": [
+        { "name": "Marguerite", "price": "12,00" },
+        { "name": "Napolitaine", "price": "14,00" },
+        { "name": "Reine", "price": "14,00" },
+        { "name": "3 Fromages", "price": "14,00" },
+        { "name": "Aubergine", "price": "14,00" },
+        { "name": "Cannibale", "price": "14,00" },
+        { "name": "Orientale", "price": "14,00" },
+        { "name": "Poulet", "price": "14,00" },
+        { "name": "Saumon", "price": "14,00" },
+        { "name": "Neptune", "price": "14,00" },
+        { "name": "Fruit de Mer", "price": "16,00" },
+        { "name": "4 Saisons", "price": "14,00" },
+        { "name": "Chèvre", "price": "14,00" },
+        { "name": "Chèvre Miel", "price": "14,00" },
+        { "name": "Du Chef", "price": "14,00" },
+        { "name": "Burrata", "price": "16,00" }
+      ]
+    },
+    {
+      "title": "Pâtes",
+      "items": [
+        { "name": "Bolognaise", "price": "14,00" },
+        { "name": "Carbonara", "price": "14,00" },
+        { "name": "Pesto", "price": "14,00" },
+        { "name": "Saumon", "price": "16,00" }
+      ]
+    },
+    {
+      "title": "Omelettes",
+      "items": [
+        { "name": "Nature", "price": "14,00" },
+        { "name": "Champignons", "price": "15,00" },
+        { "name": "Jambon Fromage", "price": "15,00" }
+      ]
+    },
+    {
+      "title": "Grillades",
+      "items": [
+        { "name": "Brochette Poulet", "price": "15,00" },
+        { "name": "Entrecôte", "price": "21,00" },
+        { "name": "Brochette Agneau", "price": "19,00" },
+        { "name": "Côtelettes Agneau", "price": "19,00" }
+      ]
+    },
+    {
+      "title": "Plats",
+      "items": [
+        { "name": "Escalope Milanaise", "price": "14,00" },
+        { "name": "Escalope à la Crème", "price": "14,00" },
+        { "name": "Escalope Grillée", "price": "14,00" },
+        { "name": "Burger", "price": "14,00" },
+        { "name": "Assiette Kebab", "price": "14,00" },
+        { "name": "Assiette Tunisienne", "price": "16,00" },
+        { "name": "Dorade Grillée (Frite et Salade)", "price": "19,00" },
+        { "name": "Fish and Chips (Frite et Salade)", "price": "13,00" },
+        { "name": "Croque Madame + Salade", "price": "12,00" }
+      ]
+    },
+    {
+      "title": "Couscous",
+      "items": [
+        { "name": "Couscous Poulet", "price": "17,00" },
+        { "name": "Couscous Kefta", "price": "17,00" },
+        { "name": "Couscous Merguez", "price": "17,00" },
+        { "name": "Couscous Agneau", "price": "19,00" },
+        { "name": "Couscous Royal", "price": "25,00" }
+      ]
+    },
+    {
+      "title": "Boissons",
+      "items": [
+        { "name": "Mojito", "price": "9,00" },
+        { "name": "Virgin Mojito", "price": "9,00" },
+        { "name": "Apérol Spritz", "price": "9,00" },
+        { "name": "Citronnade Maison", "price": "5,00" },
+        { "name": "Jus d'Orange Pressé", "price": "7,00" },
+        { "name": "Oriental Cake", "price": "13,00" }
+      ]
+    },
+    {
+      "title": "Desserts",
+      "items": [
+        { "name": "Tarte au Citron", "price": "6,00" },
+        { "name": "Tarte aux Pommes", "price": "6,00" }
+      ]
+    },
+    {
+      "title": "Menu Enfants",
+      "items": [
+        { "name": "Steak ou Escalope + Frites ou Pâtes / Pizza Marguerite", "price": "13,00" }
+      ]
+    },
+    {
+      "title": "Formule",
+      "items": [
+        { "name": "Entrée + Plat + Dessert + Café ou Thé à la Menthe", "price": "26,00" }
+      ]
+    }
+  ],
+  "photos": {
+    "food": [
+      "/Users/raphaelkrief/Desktop/Pipeline restaurant/sites/tmp_photos/le-margoum/photo2.jpg",
+      "/Users/raphaelkrief/Desktop/Pipeline restaurant/sites/tmp_photos/le-margoum/photo3.jpg",
+      "/Users/raphaelkrief/Desktop/Pipeline restaurant/sites/tmp_photos/le-margoum/photo5.jpg",
+      "/Users/raphaelkrief/Desktop/Pipeline restaurant/sites/tmp_photos/le-margoum/photo6.jpg",
+      "/Users/raphaelkrief/Desktop/Pipeline restaurant/sites/tmp_photos/le-margoum/photo7.jpg"
+    ],
+    "interior": [],
+    "exterior": [
+      "/Users/raphaelkrief/Desktop/Pipeline restaurant/sites/tmp_photos/le-margoum/photo1.jpg",
+      "/Users/raphaelkrief/Desktop/Pipeline restaurant/sites/tmp_photos/le-margoum/photo4.jpg"
+    ],
+    "menu": [
+      "/Users/raphaelkrief/Desktop/Pipeline restaurant/sites/tmp_photos/le-margoum/photo8.jpg"
+    ]
+  },
+  "repo_url": "https://github.com/raphkrief23/le-margoum",
+  "site_url": "https://le-margoum.agencepresto.com"
+}
